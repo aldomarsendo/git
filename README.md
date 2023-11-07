@@ -1,3 +1,4 @@
 #Belajar GIT
 Belajar GIT adalah project untuk saya belajar GIT
-melajar git hub dari awal
+Belajar git hub dari awal
+Membingungkan
